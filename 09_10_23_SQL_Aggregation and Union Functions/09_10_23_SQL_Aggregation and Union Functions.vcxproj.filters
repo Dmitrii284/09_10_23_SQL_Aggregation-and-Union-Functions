@@ -22,5 +22,7 @@
   <ItemGroup>
     <None Include="SQLQuery6.sql" />
     <None Include="SQLQuery11.sql" />
+    <None Include="hospital1.mdf" />
+    <None Include="hospital1_log.ldf" />
   </ItemGroup>
 </Project>

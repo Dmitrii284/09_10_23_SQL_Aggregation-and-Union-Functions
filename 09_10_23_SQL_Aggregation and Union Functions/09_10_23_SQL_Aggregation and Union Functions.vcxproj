@@ -130,6 +130,8 @@
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="hospital1.mdf" />
+    <None Include="hospital1_log.ldf" />
     <None Include="SQLQuery11.sql" />
     <None Include="SQLQuery6.sql" />
   </ItemGroup>
